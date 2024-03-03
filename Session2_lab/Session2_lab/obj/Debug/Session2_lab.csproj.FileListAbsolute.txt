@@ -1,0 +1,126 @@
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\Session2_lab.dll.config
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\Session2_lab.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\Session2_lab.pdb
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\csc.exe
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\csc.exe.config
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\csc.rsp
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\csi.exe
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\csi.exe.config
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\csi.rsp
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.AppContext.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Collections.Immutable.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Console.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Globalization.Calendars.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.IO.Compression.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.IO.FileSystem.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Net.Http.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Net.Sockets.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Reflection.Metadata.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.ValueTuple.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Xml.XPath.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\vbc.exe
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\vbc.exe.config
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\vbc.rsp
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\VBCSCompiler.exe
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\roslyn\VBCSCompiler.exe.config
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\EntityFramework.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\EntityFramework.SqlServer.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\EntityFramework.xml
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\EntityFramework.SqlServer.xml
+D:\PSD_Lab\Session2_lab\Session2_lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PSD_Lab\Session2_lab\Session2_lab\obj\Debug\Session2_lab.csproj.AssemblyReference.cache
+D:\PSD_Lab\Session2_lab\Session2_lab\obj\Debug\Session2_lab.csproj.CoreCompileInputs.cache
+D:\PSD_Lab\Session2_lab\Session2_lab\obj\Debug\Session2.522CFF28.Up2Date
+D:\PSD_Lab\Session2_lab\Session2_lab\obj\Debug\Session2_lab.dll
+D:\PSD_Lab\Session2_lab\Session2_lab\obj\Debug\Session2_lab.pdb
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\Session2_lab.dll.config
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\Session2_lab.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\Session2_lab.pdb
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\csc.exe
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\csc.exe.config
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\csc.rsp
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\csi.exe
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\csi.exe.config
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\csi.rsp
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.AppContext.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Collections.Immutable.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Console.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Globalization.Calendars.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.IO.Compression.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.IO.FileSystem.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Net.Http.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Net.Sockets.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Reflection.Metadata.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.ValueTuple.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Xml.XPath.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\vbc.exe
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\vbc.exe.config
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\vbc.rsp
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\VBCSCompiler.exe
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\roslyn\VBCSCompiler.exe.config
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\EntityFramework.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\EntityFramework.SqlServer.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\EntityFramework.xml
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\EntityFramework.SqlServer.xml
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\obj\Debug\Session2_lab.csproj.AssemblyReference.cache
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\obj\Debug\Session2_lab.csproj.CoreCompileInputs.cache
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\obj\Debug\Session2.522CFF28.Up2Date
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\obj\Debug\Session2_lab.dll
+D:\BINUS University\4th Semester\Pattern Software Design\LAB\Session 2 - ASP.NET Entity Frameworks, ASP.NET AJAX\Session2_lab\Session2_lab\obj\Debug\Session2_lab.pdb

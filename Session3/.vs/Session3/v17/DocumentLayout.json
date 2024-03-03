@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PSD_Lab\\Session3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07A37AAE-7F43-451B-BA99-D674BEB4E0E7}|Session3\\Session3.csproj|D:\\PSD_Lab\\Session3\\Session3\\Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{07A37AAE-7F43-451B-BA99-D674BEB4E0E7}|Session3\\Session3.csproj|solutionrelative:Session3\\Home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A37AAE-7F43-451B-BA99-D674BEB4E0E7}|Session3\\Session3.csproj|d:\\psd_lab\\session3\\session3\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{07A37AAE-7F43-451B-BA99-D674BEB4E0E7}|Session3\\Session3.csproj|solutionrelative:session3\\category.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A37AAE-7F43-451B-BA99-D674BEB4E0E7}|Session3\\Session3.csproj|D:\\PSD_Lab\\Session3\\Session3\\App.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A37AAE-7F43-451B-BA99-D674BEB4E0E7}|Session3\\Session3.csproj|solutionrelative:Session3\\App.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A37AAE-7F43-451B-BA99-D674BEB4E0E7}|Session3\\Session3.csproj|D:\\PSD_Lab\\Session3\\Session3\\App.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{07A37AAE-7F43-451B-BA99-D674BEB4E0E7}|Session3\\Session3.csproj|solutionrelative:Session3\\App.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 243,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.Master.cs",
+              "DocumentMoniker": "D:\\PSD_Lab\\Session3\\Session3\\App.Master.cs",
+              "RelativeDocumentMoniker": "Session3\\App.Master.cs",
+              "ToolTip": "D:\\PSD_Lab\\Session3\\Session3\\App.Master.cs",
+              "RelativeToolTip": "Session3\\App.Master.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:45:00.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.aspx",
+              "DocumentMoniker": "D:\\PSD_Lab\\Session3\\Session3\\Category.aspx",
+              "RelativeDocumentMoniker": "Session3\\Category.aspx",
+              "ToolTip": "D:\\PSD_Lab\\Session3\\Session3\\Category.aspx",
+              "RelativeToolTip": "Session3\\Category.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-01T08:39:09.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\PSD_Lab\\Session3\\Session3\\Home.aspx",
+              "RelativeDocumentMoniker": "Session3\\Home.aspx",
+              "ToolTip": "D:\\PSD_Lab\\Session3\\Session3\\Home.aspx",
+              "RelativeToolTip": "Session3\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-01T08:37:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.Master",
+              "DocumentMoniker": "D:\\PSD_Lab\\Session3\\Session3\\App.Master",
+              "RelativeDocumentMoniker": "Session3\\App.Master",
+              "ToolTip": "D:\\PSD_Lab\\Session3\\Session3\\App.Master",
+              "RelativeToolTip": "Session3\\App.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-01T08:33:37.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
