@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Session8\\Session8.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express (Google Chrome)"
+      },
+      {
+        "Name": "Session8FrontEnd\\Session8FrontEnd.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express (Google Chrome)"
+      }
+    ]
+  }
+]
